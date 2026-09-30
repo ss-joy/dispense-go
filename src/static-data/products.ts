@@ -33,7 +33,7 @@ export const products: Products = [
         thc: 20,
         count: 121,
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+            "/assets/products/cbd-capsules.jpg",
         ],
         dispensaryName: "Fred Cobb's Dispensary",
         dispensaryId: "1bb9ddd6-2037-53b9-a850-83c6fedfe0d1",
@@ -53,7 +53,7 @@ export const products: Products = [
         count: 121,
         variantsList: ["200mg", "Buy 1 Take 1"],
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/52431_m_500x.png?v=1684325721",
+            "/assets/products/flower-blue-dream.jpg",
         ],
         dispensaryName: "Fred Cobb's Dispensary",
         dispensaryId: "1bb9ddd6-2037-53b9-a850-83c6fedfe0d1",
@@ -73,7 +73,7 @@ export const products: Products = [
         variantsList: ["300mg", "Buy 1 Take 1"],
         count: 121,
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+            "/assets/products/flower-organic-1.jpg",
         ],
         dispensaryName: "Chris Little's Dispensary",
         dispensaryId: "e7ada41f-26c6-590f-bd60-66e398bf3fd1",
@@ -92,7 +92,7 @@ export const products: Products = [
         variantsList: ["400mg", "Buy 1 Take 1"],
         type: "indica",
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+            "/assets/products/flower-medical-2.jpg",
         ],
         dispensaryName: "Hilda Logan's Dispensary",
         dispensaryId: "cc734b7e-f1b3-53b7-95d9-65e5cd465a0b",
@@ -112,7 +112,7 @@ export const products: Products = [
         count: 121,
         variantsList: ["500mg", "Buy 1 Take 1"],
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+            "/assets/products/flower-organic-3.jpg",
         ],
         dispensaryName: "Oscar Singleton's Dispensary",
         dispensaryId: "ce90879d-89c7-5039-b951-c7bdfec8a0b7",
@@ -131,7 +131,7 @@ export const products: Products = [
         count: 121,
         variantsList: ["600mg", "Buy 1 Take 1"],
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+            "/assets/products/flower-purple.jpg",
         ],
         dispensaryName: "Max Logan's Dispensary",
         dispensaryId: "06dc90a1-a680-5b77-a280-78ea1b56096d",
@@ -150,7 +150,7 @@ export const products: Products = [
         variantsList: ["700mg", "Buy 1 Take 1"],
         type: "sativa",
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+            "/assets/products/flower-medical-1.jpg",
         ],
         dispensaryName: "Katharine Martin's Dispensary",
         dispensaryId: "9ca2089f-1354-5638-8bad-e6263ec879e7",
@@ -169,7 +169,7 @@ export const products: Products = [
         type: "indica",
         variantsList: ["800mg", "Buy 1 Take 1"],
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+            "/assets/products/flower-organic-2.jpg",
         ],
         dispensaryName: "Gavin Ball's Dispensary",
         dispensaryId: "3512c974-2f8e-5738-b661-df9369024517",
@@ -188,7 +188,7 @@ export const products: Products = [
         variantsList: ["900mg", "Buy 1 Take 1"],
         type: "sativa",
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+            "/assets/products/flower-organic-1.jpg",
         ],
         dispensaryName: "Augusta Richards's Dispensary",
         dispensaryId: "b409e333-ef45-580b-85fd-3dc58ea4099a",
@@ -207,7 +207,7 @@ export const products: Products = [
         type: "indica",
         variantsList: ["1000mg", "Buy 1 Take 1"],
         image: [
-            "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+            "/assets/products/flower-medical-2.jpg",
         ],
         dispensaryName: "Mike Duncan's Dispensary",
         dispensaryId: "ed7b1622-837d-5efa-bb51-7549df9cf703",

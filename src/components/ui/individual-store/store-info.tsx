@@ -13,7 +13,7 @@ const StoreImage = () => {
     return (
         <Flex className="shrink-0 relative w-[121px] h-[121px] xl:h-[100px] xl:w-[100px] rounded-full overflow-hidden border-2 border-primary-green">
             <Image
-                src={"https://via.placeholder.com/100x100"}
+                src={"/assets/stores/dispensary-2.jpg"}
                 fill
                 alt="profile picture"
             />
@@ -88,7 +88,7 @@ const StoreDescirption:FC<StoreDescType> = ({onStoreInfo}) => {
                 <Flex className="gap-2 items-center">
                     <Flex className="w-[50px] h-[44px] xl:h-[100px] xl:w-[100px] relative">
                         <Image
-                            src={"https://via.placeholder.com/100x100"}
+                            src={"/assets/stores/dispensary-2.jpg"}
                             fill
                             alt="profile picture"
                         />
@@ -186,7 +186,7 @@ const StoreDescriptionMobile: FC<StoreDescType> = ({ onStoreInfo, onFollow }) =>
             <Flex className="gap-4 flex-row w-auto">
                 <Flex className="h-[120px] w-[116px] relative shrink-0">
                     <Image
-                        src={"https://via.placeholder.com/100x100"}
+                        src={"/assets/stores/dispensary-2.jpg"}
                         fill
                         alt="profile picture"
                     />

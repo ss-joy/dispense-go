@@ -4,11 +4,11 @@ export const AllproductDetails = [
             productId: "e65dbfb9-195f-5785-a01f-81fecfd802c2",
             productName: "Evidence™️ Prison Shortys - Guava",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+                "/assets/products/pre-rolls.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
 
             productPrice: 21.25,
             productDiscountPrice: 21.25,
@@ -20,7 +20,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-1.jpg",
             productCategory: "EDIBLES",
 
             productComposition: { THC: 6, DELTA: 9, CBD: 5 },
@@ -147,11 +147,11 @@ export const AllproductDetails = [
             productId: "c9673734-d586-5a1e-9d2f-b8cad1f8dcf6",
             productName: "Sea Star - 3.5g Indoor",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/52431_m_500x.png?v=1684325721",
+                "/assets/products/flower-blue-dream.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["200mg", "Buy 1 Take 1"],
@@ -162,7 +162,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-2.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -295,11 +295,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+                "/assets/products/flower-organic-1.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["300mg", "Buy 1 Take 1"],
@@ -310,7 +310,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-3.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -443,11 +443,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+                "/assets/products/flower-medical-2.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["400mg", "Buy 1 Take 1"],
@@ -458,7 +458,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-1.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -591,11 +591,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+                "/assets/products/flower-organic-3.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["500mg", "Buy 1 Take 1"],
@@ -606,7 +606,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-2.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -740,11 +740,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+                "/assets/products/flower-purple.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["600mg", "Buy 1 Take 1"],
@@ -755,7 +755,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-3.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -888,11 +888,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+                "/assets/products/flower-medical-1.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["600mg", "Buy 1 Take 1"],
@@ -903,7 +903,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-1.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -1036,11 +1036,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+                "/assets/products/flower-organic-2.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["700mg", "Buy 1 Take 1"],
@@ -1051,7 +1051,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-2.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -1184,11 +1184,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531",
+                "/assets/products/flower-organic-1.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["800mg", "Buy 1 Take 1"],
@@ -1199,7 +1199,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-3.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {
@@ -1333,11 +1333,11 @@ export const AllproductDetails = [
 
             productName: "E85 - 7g Smediums",
             image: [
-                "https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435",
+                "/assets/products/flower-medical-2.jpg",
             ],
             brandName: "Evidence",
             brandImage:
-                "https://buyevidence.com/wp-content/uploads/2019/11/cropped-website-logo2.jpg",
+                "/assets/brands/brand-placeholder.jpg",
             productPrice: 21.25,
             productDiscountPrice: 21.25,
             variations: ["900mg", "Buy 1 Take 1"],
@@ -1348,7 +1348,7 @@ export const AllproductDetails = [
             dispensaryReviewCount: 212,
             dispensaryReviewStars: 4,
             dispensaryImage:
-                "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png",
+                "/assets/stores/dispensary-1.jpg",
             productCategory: "EDIBLES",
 
             productComposition: {

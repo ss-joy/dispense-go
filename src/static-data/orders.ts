@@ -19,7 +19,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -30,7 +30,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -41,7 +41,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -65,7 +65,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -76,7 +76,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -87,7 +87,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -111,7 +111,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -122,7 +122,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },
@@ -133,7 +133,7 @@ export const orders: Order[] = [
                 mainAmount: 25.02,
                 discountAmount: 21.25,
                 productImage:
-                    "https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg",
+                    "/assets/products/gummies.jpg",
                 variation: "100mg",
                 productId: "0c0c895f-0e7b-5ba3-b6bc-6aad664f765f",
             },

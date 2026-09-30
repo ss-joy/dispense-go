@@ -66,7 +66,7 @@ const ProductImage: FC<BadgeProps> = ({
                 ].join(" ")}
                 imageUrl={
                     URLS?.[0] ||
-                    "https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png"
+                    "/assets/products/flower-organic-1.jpg"
                 }
                 width={size === "small" ? 257 : 358}
                 height={size === "small" ? 271 : 376}

@@ -27,7 +27,6 @@ const Item: FC<ItemProps> = ({ name, imageURL, productQuantity, productPrice, pr
    
     return <Flex className="gap-4">
         <Flex className={["w-[112px] h-[118px] shrink-0 relative border-[1.222px] border-border-whiteSmoke overflow-hidden rounded-[4px] shadow-cart-item"].join(" ")}>
-            {/* <Image src={"https://retailminded.com/wp-content/uploads/2016/03/EN_GreenOlive-1.jpg"} fill alt="image" /> */}
             <Image src={imageURL} fill alt="image" />
 
         </Flex>

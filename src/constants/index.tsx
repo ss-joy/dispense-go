@@ -85,7 +85,7 @@ export const Products = [
     rating: 4,
     type: "hybrid",
     sale: 10,
-    image: ["https://shopcannabisnl.com/cdn/shop/files/52907-m_500x.png?v=1698768379"],
+    image: ["/assets/products/cbd-capsules.jpg"],
   },
   {
     title: "Sea Star - 3.5g Indoor",
@@ -93,7 +93,7 @@ export const Products = [
     rating: 4,
     type: "hybrid",
     sale: 15,
-    image: ["https://shopcannabisnl.com/cdn/shop/products/52431_m_500x.png?v=1684325721"],
+    image: ["/assets/products/flower-blue-dream.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
@@ -101,14 +101,14 @@ export const Products = [
     rating: 4,
     type: "sativa",
     sale: 20,
-    image: ["https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531"],
+    image: ["/assets/products/flower-organic-1.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
     price: 21.25,
     rating: 4,
     type: "indica",
-    image: ["https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435"],
+    image: ["/assets/products/flower-medical-2.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
@@ -116,42 +116,42 @@ export const Products = [
     rating: 4,
     type: "sativa",
     sale: 13,
-    image: ["https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531"],
+    image: ["/assets/products/flower-organic-3.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
     price: 21.25,
     rating: 4,
     type: "indica",
-    image: ["https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435"],
+    image: ["/assets/products/flower-purple.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
     price: 21.25,
     rating: 4,
     type: "sativa",
-    image: ["https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531"],
+    image: ["/assets/products/flower-medical-1.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
     price: 21.25,
     rating: 4,
     type: "indica",
-    image: ["https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435"],
+    image: ["/assets/products/flower-organic-2.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
     price: 21.25,
     rating: 4,
     type: "sativa",
-    image: ["https://shopcannabisnl.com/cdn/shop/products/51930_m_500x.png?v=1698944531"],
+    image: ["/assets/products/flower-organic-1.jpg"],
   },
   {
     title: "E85 - 7g Smediums",
     price: 21.25,
     rating: 4,
     type: "indica",
-    image: ["https://shopcannabisnl.com/cdn/shop/products/52977_m_500x.png?v=1690205435"],
+    image: ["/assets/products/flower-medical-2.jpg"],
   }
 
 ]

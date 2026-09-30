@@ -19,7 +19,7 @@ interface NewsEventDetails {
       <div className="relative w-fit">
         <CustomImage
           containerClassName="w-[360px] h-[382px]"
-          imageUrl="https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png"
+          imageUrl="/assets/news/event.jpg"
           width={250}
           height={227}
         />

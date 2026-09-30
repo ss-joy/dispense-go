@@ -189,10 +189,10 @@ const ProductImageSlider = ({ imageArray }:ProductImageSliderProps) => {
      * production
      */
     const images = imageArray ? imageArray: [
-        "https://shopcannabisnl.com/cdn/shop/products/52947_m_500x.png?v=1698944424",
-        "https://shopcannabisnl.com/cdn/shop/products/52716_m_500x.png?v=1680787718",
-        "https://shopcannabisnl.com/cdn/shop/products/50305_m_cfa4298b-512d-4d82-87ac-166cd44bc7ca_500x.png?v=1648137959",
-        "https://shopcannabisnl.com/cdn/shop/products/50648_m_500x.png?v=1703097503",
+        "/assets/products/flower-blue-dream.jpg",
+        "/assets/products/flower-purple.jpg",
+        "/assets/products/flower-organic-1.jpg",
+        "/assets/products/flower-medical-2.jpg",
     ];
 
     return (
@@ -557,7 +557,7 @@ export const ProductInformation:FC<ProductInformationProps> = ({
                             <Flex className="gap-l">
                                 <Flex className="rounded-md w-[100px] h-[100px] xl:w-[107px] xl:h-[80px] relative overflow-hidden shadow-brand border-2 border-border-whiteSmoke">
                                     <Image
-                                        src={`/static/cropped-website-logo2.jpg`}
+                                        src={`/assets/brands/brand-placeholder.jpg`}
                                         // fill
                                         width={107}
                                         height={80}

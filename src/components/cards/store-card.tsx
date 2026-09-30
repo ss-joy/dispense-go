@@ -14,7 +14,7 @@ type Props = {
 const StoreImage = () => {
     return <div className="relative w-fit">
         <AddToFavourite classname="absolute z-10 top-2.5 right-2.5" />
-        <CustomImage containerClassName="rounded-md shadow-product-card card-border w-[107px] h-[107px]" imageUrl="https://s3.amazonaws.com/www-inside-design/uploads/2020/10/aspect-ratios-blogpost-1x1-1.png" width={250} height={227} />
+        <CustomImage containerClassName="rounded-md shadow-product-card card-border w-[107px] h-[107px]" imageUrl="/assets/stores/dispensary-1.jpg" width={250} height={227} />
     </div>
 }
 
